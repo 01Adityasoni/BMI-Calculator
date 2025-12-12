@@ -1,1 +1,33 @@
-HELLO 
+# BMI Calculator
+
+This is a simple and modern web-based BMI (Body Mass Index) Calculator. Enter your height (in centimeters) and weight (in kilograms) to instantly calculate your BMI and see which category you fall into.
+
+## Features
+- Clean, attractive, and responsive design
+- Instant BMI calculation with input validation
+- BMI category guide included
+- Built with HTML, CSS, and JavaScript
+
+## How to Use
+1. Open `index.html` in your web browser.
+2. Enter your height in centimeters and weight in kilograms.
+3. Click the **Calculate BMI** button.
+4. Your BMI and the corresponding weight category will be displayed.
+
+## BMI Categories
+- **Underweight:** Less than 18.6
+- **Normal weight:** 18.6 – 24.9
+- **Overweight:** 25 – 29.9
+- **Obesity:** 30 or greater
+
+## Project Structure
+- `index.html` – Main HTML file
+- `styles.css` – CSS for styling
+- `index.js` – JavaScript logic for BMI calculation
+- `README` – Project documentation
+
+## License
+This project is open source and free to use.
+
+## Author 
+Aditya Soni 
